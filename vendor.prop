@@ -159,6 +159,7 @@ vendor.display.enable_optimize_refresh=1
 vendor.gralloc.disable_ubwc=0
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
+debug.cpurend.vsync=false
 
 # Keystore
 ro.hardware.keystore_desede=true
