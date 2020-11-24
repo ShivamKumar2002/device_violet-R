@@ -109,6 +109,8 @@ ro.bluetooth.a2dp_offload.supported=true
 
 # Camera
 camera.disable_zsl_mode=1
+persist.camera.HAL3.enabled=1
+persist.vendor.camera.HAL3.enabled=1
 
 # Crypto
 ro.crypto.allow_encrypt_override=true
